@@ -95,6 +95,7 @@ const generic_src_files = [_][]const u8{
     "src/hidapi/SDL_hidapi.c",
 
     "src/joystick/SDL_gamecontroller.c",
+    "src/joystick/SDL_steam_virtual_gamepad.c",
     "src/joystick/SDL_joystick.c",
     "src/joystick/controller_type.c",
     "src/joystick/virtual/SDL_virtualjoystick.c",
