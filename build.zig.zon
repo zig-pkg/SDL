@@ -1,0 +1,14 @@
+.{
+    .name = "SDL",
+    .version = "2.30.0",
+    .dependencies = .{},
+    .paths = .{
+        "LICENSE.txt",
+        "README.md",
+        "BUGS.txt",
+        "build.zig",
+        "build.zig.zon",
+        "include",
+        "src",
+    },
+}
