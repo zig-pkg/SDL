@@ -189,6 +189,7 @@ const generic_src_files = [_][]const u8{
     "src/joystick/hidapi/SDL_hidapi_shield.c",
     "src/joystick/hidapi/SDL_hidapi_stadia.c",
     "src/joystick/hidapi/SDL_hidapi_steam.c",
+    "src/joystick/hidapi/SDL_hidapi_steamdeck.c",
     "src/joystick/hidapi/SDL_hidapi_switch.c",
     "src/joystick/hidapi/SDL_hidapi_wii.c",
     "src/joystick/hidapi/SDL_hidapi_xbox360.c",
