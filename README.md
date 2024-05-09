@@ -1,3 +1,9 @@
+# SDL 2.30.0 - Packaged with Zig
+This is just SDL2 built and provided as a Zig package. 
+
+All credit to Andrew Kelly, this is entirely lifted from his (forked repo)[https://github.com/andrewrk/SDL], including all changes he's made to date.
+
+# Original README
 
 # Simple DirectMedia Layer (SDL) Version 2.0
 
